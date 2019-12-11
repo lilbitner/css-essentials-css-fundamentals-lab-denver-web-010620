@@ -12,13 +12,13 @@ a {
   font-size: small;
   margin: auto;
 }
-p#featured-property {
+p #featured-property {
  width: 800px;
  margin: auto;
 }
-#details {
+#details div {
   display: block;
-  
+  float: left;
 }
 div {
   background-color: ; 
